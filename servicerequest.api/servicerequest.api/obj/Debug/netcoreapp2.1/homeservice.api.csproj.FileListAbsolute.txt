@@ -1,0 +1,56 @@
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.deps.json
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.runtimeconfig.json
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.runtimeconfig.dev.json
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.dll
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.csprojAssemblyReference.cache
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.csproj.CoreCompileInputs.cache
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorAssemblyInfo.cache
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorAssemblyInfo.cs
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.AssemblyInfoInputs.cache
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.AssemblyInfo.cs
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorTargetAssemblyInfo.cache
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.pdb
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.dll
+C:\Users\Sankara.Bathrinaraya\source\repos\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.pdb
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.deps.json
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.runtimeconfig.json
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.runtimeconfig.dev.json
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.dll
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.pdb
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.csprojAssemblyReference.cache
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.csproj.CoreCompileInputs.cache
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorAssemblyInfo.cache
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorAssemblyInfo.cs
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.AssemblyInfoInputs.cache
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.AssemblyInfo.cs
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorTargetAssemblyInfo.cache
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.dll
+C:\Sankar\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.pdb
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.deps.json
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.runtimeconfig.json
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.runtimeconfig.dev.json
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.dll
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.pdb
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.csprojAssemblyReference.cache
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.csproj.CoreCompileInputs.cache
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorAssemblyInfo.cache
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorAssemblyInfo.cs
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.AssemblyInfoInputs.cache
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.AssemblyInfo.cs
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorTargetAssemblyInfo.cache
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.dll
+E:\writable\OneDrive\OneDrive - Emdeon\PRABU\prabu\AssignmentProject-master\AssignmentProject-master\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.pdb
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.deps.json
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.runtimeconfig.json
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.runtimeconfig.dev.json
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.dll
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\bin\Debug\netcoreapp2.1\homeservice.api.pdb
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.csprojAssemblyReference.cache
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.csproj.CoreCompileInputs.cache
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorAssemblyInfo.cache
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorAssemblyInfo.cs
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.AssemblyInfoInputs.cache
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.AssemblyInfo.cs
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.RazorTargetAssemblyInfo.cache
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.dll
+C:\PRABU\HomeServiceAssignment\homeservice.api\homeservice.api\obj\Debug\netcoreapp2.1\homeservice.api.pdb

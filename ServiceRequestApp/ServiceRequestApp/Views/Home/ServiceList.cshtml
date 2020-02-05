@@ -1,0 +1,136 @@
+﻿@{
+    ViewData["Title"] = "Service List";
+}
+
+
+
+<table id="tbl_serviceList" class="table" style="width:100%">
+    <thead class="thead-light">
+        <tr>
+            <th scope="row">Name</th>
+            <th scope="row">Product</th>
+            <th scope="row">Product Type</th>
+            <th scope="row">Product Service</th>
+            <th scope="row">Service Timing</th>
+        </tr>
+    </thead>
+</table>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        var categories = [];
+        $.ajax({
+            url: "http://localhost:61804/api/HomeService/GetCategories",
+            type: 'GET',
+            dataType: 'json',
+            async: false,
+            contentType: "application/json",
+            success: function (responsive) {
+                if (responsive != null) {
+                    categories = responsive;
+                }
+            }
+        });
+
+        var ProductTypes = [];
+        $.ajax({
+            url: "http://localhost:61804/api/HomeService/GetProductTypes",
+            type: 'GET',
+            dataType: 'json',
+            async: false,
+            contentType: "application/json",
+            success: function (responsive) {
+                if (responsive != null) {
+                    productTypes = responsive;
+                }
+            }
+        });
+
+        var ProductServices = [];
+        $.ajax({
+            url: "http://localhost:61804/api/HomeService/GetProductService",
+            type: 'GET',
+            dataType: 'json',
+            async: false,
+            contentType: "application/json",
+            success: function (responsive) {
+                if (responsive != null) {
+                    productServices = responsive;
+                }
+            }
+        });
+
+
+        var serviceRequest = null;
+        $.ajax({
+            url: "http://localhost:61804/api/HomeService/GetServiceRequests",
+            type: 'GET',
+            dataType: 'json',
+            async: false,
+            contentType: "application/json",
+            success: function (responsive) {
+                if (responsive != null) {
+                    serviceRequest = responsive;
+                }
+            }
+        });
+
+
+        $('#tbl_serviceList').DataTable({
+            data: serviceRequest ? serviceRequest : "",
+            columns: [
+                { data: 'name' },
+                {
+                    data: null, render: function (data, type, row, meta) {
+                        var ProductName = "";
+                        var filterdata = categories.filter(function (item) {
+                            return item.productId == data.productId;
+                        });
+                        if (filterdata != null && filterdata.length > 0) {
+                            ProductName = filterdata[0].productName;
+                        }
+                        return ProductName;
+                    }
+                },
+                {
+                    data: null, render: function (data, type, row, meta) {
+                        var ProductTypeName = "";
+                        var filterdata = productTypes.filter(function (item) {
+                            return item.productTypeId == data.productTypeId;
+                        });
+                        if (filterdata != null && filterdata.length > 0) {
+                            ProductTypeName = filterdata[0].productTypeName;
+                        }
+                        return ProductTypeName;
+                    }
+                },
+                {
+                    data: null, render: function (data, type, row, meta) {
+                        var ProductServiceName = "";
+                        var filterdata = productServices.filter(function (item) {
+                            return item.productServiceId == data.productServiceId;
+                        });
+                        if (filterdata != null && filterdata.length > 0) {
+                            ProductServiceName = filterdata[0].productServiceName;
+                        }
+                        return ProductServiceName;
+                    }
+                },
+                { data: 'serviceTiming' }
+            ],
+            deferRender: true,
+            "bPaginate": false,
+            "bLengthChange": false,
+            "bFilter": false,
+            "bInfo": false,
+            "bAutoWidth": false,
+            "language": {
+                "infoEmpty": " "
+            }
+
+        });
+    });
+</script>

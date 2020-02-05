@@ -1,0 +1,9 @@
+C:\PRABU\HomeServiceAssignment\homeservice.api\HomeServiceModels\bin\Debug\netstandard2.0\HomeServiceModels.deps.json
+C:\PRABU\HomeServiceAssignment\homeservice.api\HomeServiceModels\bin\Debug\netstandard2.0\HomeServiceModels.dll
+C:\PRABU\HomeServiceAssignment\homeservice.api\HomeServiceModels\bin\Debug\netstandard2.0\HomeServiceModels.pdb
+C:\PRABU\HomeServiceAssignment\homeservice.api\HomeServiceModels\obj\Debug\netstandard2.0\HomeServiceModels.csprojAssemblyReference.cache
+C:\PRABU\HomeServiceAssignment\homeservice.api\HomeServiceModels\obj\Debug\netstandard2.0\HomeServiceModels.csproj.CoreCompileInputs.cache
+C:\PRABU\HomeServiceAssignment\homeservice.api\HomeServiceModels\obj\Debug\netstandard2.0\HomeServiceModels.AssemblyInfoInputs.cache
+C:\PRABU\HomeServiceAssignment\homeservice.api\HomeServiceModels\obj\Debug\netstandard2.0\HomeServiceModels.AssemblyInfo.cs
+C:\PRABU\HomeServiceAssignment\homeservice.api\HomeServiceModels\obj\Debug\netstandard2.0\HomeServiceModels.dll
+C:\PRABU\HomeServiceAssignment\homeservice.api\HomeServiceModels\obj\Debug\netstandard2.0\HomeServiceModels.pdb
